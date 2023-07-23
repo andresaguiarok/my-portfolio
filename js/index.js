@@ -14,11 +14,7 @@ const get = () => {
     .catch(error => console.log(error))
 }
 
-function viewLang(){
-    console.log("Hola Mundo les traigo los lenguajes");
-    get()
-  }
-setTimeout(viewLang, 3000)
+get()
 
 
 
