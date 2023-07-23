@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/*START PROFILE PICTURE AND BANNER */
+
+#banner {
+    background-image: url('../image/cover-image\(3.0\).png');
+}
+
+.container-fluid {
+    width: 100%;
+    height: 40%;
+}
+
+.banner{
+    background: linear-gradient(
+        rgba(0, 0, 0, 0),rgba(255, 255, 255, 0), 
+        rgba(255, 255, 255, 0.555), rgba(255, 255, 255, 0.918),
+        rgb(255, 255, 255), rgb(255, 255, 255)
+        );
+}
+
+.image-profile{
+    padding: 20px;
+    display: flex;
+    justify-self: center;
+}
+
+/*END PROFILE PICTURE AND BANNER */
+
+/*START LANGUAGES */
+
+#technologys {
+    width: 100%;
+    height: auto;
+    padding: 15px;
+}
+
+.title {
+    background-color: rgba(0, 0, 0, 0.856);
+    border-radius: 5px;
+    width: 100%;
+    color: rgb(255, 228, 205);
+}
+
+@media (min-width: 1025px) and (max-width: 1280px){}
