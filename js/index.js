@@ -2,7 +2,7 @@ const technologys = document.getElementById("languages")
 const languages = []
 
 function get() {
-    fetch("../techLanguages.json")
+    fetch("./techLanguages.json")
         .then(res => res.json())
         .then(res => res.map(item => languages.push(item) ))
         .catch(error => console.log(error))
