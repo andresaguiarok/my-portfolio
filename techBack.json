@@ -1,0 +1,34 @@
+[
+    {
+        "language": "Node Js",
+        "icon": "./image/icons-back/icon-node-js.png"
+    },
+    {
+        "language": "Jwt",
+        "icon": "./image/icons-back/icon-jwt.png"
+    },
+    {
+        "language": "Handlebar",
+        "icon": "./image/icons-back/icon-handlebar.png"
+    },
+    {
+        "language": "Express Js",
+        "icon": "./image/icons-back/icon-express-js.png"
+    },
+    {
+        "language": "Mongo Db",
+        "icon": "./image/icons-back/icon-mongodb.png"
+    },
+    {
+        "language": "Npm",
+        "icon": "./image/icons-back/icon-npm.png"
+    },
+    {
+        "language": "Http",
+        "icon": "./image/icons-back/icon-http.png"
+    },
+    {
+        "language": "Http",
+        "icon": "./image/icons-back/icon-nestjs.png"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "language": "html",
+        "icon": "./image/icons-front/icon-html.png"
+    },
+    {
+        "language": "css",
+        "icon": "./image/icons-front/icon-css.png"
+    },
+    {
+        "language": "sass",
+        "icon": "./image/icons-front/icon-sass.png"
+    },
+    {
+        "language": "git",
+        "icon": "./image/icons-front/icon-git.png"
+    },
+    {
+        "language": "github",
+        "icon": "./image/icons-front/icon-github.png"
+    },
+    {
+        "language": "bootstrap",
+        "icon": "./image/icons-front/icon-bootstrap.png"
+    },
+    {
+        "language": "javascript",
+        "icon": "./image/icons-front/icon-javascript.png"
+    },
+    {
+        "language": "react js",
+        "icon": "./image/icons-front/icon-react.js.png"
+    }
+]
